@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/data_photo"
+        android:layout_width="362dp"
+        android:layout_height="257dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:contentDescription="Profile Picture"
+        android:padding="5dp"
+        android:scaleType="centerCrop"
+        tools:src="@drawable/toystory" />
+
+    <TextView
+        android:id="@+id/data_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textStyle="bold|italic"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp"
+        tools:text="Toy Story"/>
+
+    <TextView
+        android:id="@+id/data_tahun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        tools:text="1991" />
+
+    <TextView
+        android:id="@+id/data_pencipta"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_gravity="center"
+        android:textStyle="italic"
+        android:textSize="17dp"
+        tools:text="Gary Trousdale dan Kirk Wise" />
+
+    <TextView
+        android:id="@+id/data_description"
+        android:layout_width="380dp"
+        android:layout_height="332dp"
+        android:layout_gravity="left|center"
+        android:textSize="17.5dp"
+        tools:text="Sebelum diakuisisi Disney, Pixar berhasil memproduksi film kartun populer Toy Story. Film ini mengisahkan Woody sebuah mainan yang telah dicuri dari rumahnya. Ia dicuri oleh salah satu penjual mainan Al McWhiggin yang biasa menjual mainan pada kolektor. Buzz Lightyear dan kawan Woody mencoba menyelamatkannya. Di perjalanan, Woody baru menyadari bahwa ia adalah sebuah koleksi mainan berharga dari acara televisi Woody Roundup. Ia dipertemukan dengan teman-temannya di acara tersebut bernama Jessie si cowgirl yodeling dan Stinky Pete the Prospector" />
+
+
+</LinearLayout>

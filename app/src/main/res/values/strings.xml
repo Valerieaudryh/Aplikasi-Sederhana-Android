@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Disney Cartoon</string>
+
+    <string name="first_fragment_label">Disney Cartoon</string>
+    <string name="second_fragment_label">Disney Cartoon</string>
+    <string name="heroes_name">Disney Cartoon</string>
+    <string name="tahun">Tahun</string>
+    <string name="pencipta">Pencipta</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Beauty And The Beast</item>
+        <item>Brave</item>
+        <item>Chip N Dale</item>
+        <item>Cinderella</item>
+        <item>Frozen</item>
+        <item>Incredibles 2</item>
+        <item>Tangled</item>
+        <item>Toy Story</item>
+        <item>Turning Red</item>
+        <item>Wish</item>
+    </string-array>
+    <string-array name="data_tahun">
+        <item>1991</item>
+        <item>2012</item>
+        <item>1943</item>
+        <item>1950</item>
+        <item>2013</item>
+        <item>2018</item>
+        <item>2010</item>
+        <item>1995</item>
+        <item>2022</item>
+        <item>2023</item>
+    </string-array>
+    <string-array name="data_pencipta">
+        <item>Gary Trousdale dan Kirk Wise</item>
+        <item>Brenda Chapman</item>
+        <item>John Kimball, Bob Zamboni, Rick Leon, Jamie Mitchell</item>
+        <item>Charles Perrault, Marc Davis, Eric Larson, Les Clark, Mark Henn</item>
+        <item>Chris Buck dan Jennifer Lee</item>
+        <item>Brad Bird</item>
+        <item>Nathan Greno dan Byron Howard</item>
+        <item>John Lasseter</item>
+        <item>Domee Shi</item>
+        <item>Chris Buck dan Fawn Veerasunthom</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Mengisahkan seorang pangeran yang dikenal memiliki sifat arogan tinggal bersama para pelayannya di sebuah kastil. Namun, tiba-tiba saja seorang penyihir menyihir mereka hingga mengubah sang pangeran menjadi seperti binatang dan para pelayan menjadi benda-benda. Suatu hari seorang gadis desa yang rajin dan keras kepala bernama Belle memasuki kastil Beast, karena Beast telah memenjarakan sang ayah. Dengan bantuan para pelayannya yang terpesona, Belle mulai menarik Beast yang berhati dingin keluar dari keterasingannya.</item>
+        <item>Merida, putri Raja Skotlandia Fergus dan Ratu Elinor dikenal sebagai wanita pemberani di kerajaannya.  Keduanya memiliki keahlian memanah yang terampil dan berambisi untuk menentukan masa depannya sendiri. Suatu hari Merida mencari bantuan dari penyihir eksentrik untuk mengabulkan permintaannya. Namun, hal itu ternyata berdampak besar pada kehidupannya,  kerajaan dan Ratu Elinor.  </item>
+        <item>Sudah puluhan tahun sejak serial televisi sukses mereka dibatalkan, Chip menyerah pada kehidupannya sebagai penjual asuransi. Sementara itu Dale telah menjalani operasi CGI dan bekerja di sirkuit konvensi. Dale sangat ingin menghidupkan kembali hari-hari kejayaannya. Chip dan Dale harus memperbaiki persahabatan mereka yang rusak dan mengambil hati detektif Rescue Rangers sekali lagi untuk menyelamatkan hidup teman mereka.</item>
+        <item>Cinderella memiliki ibu tiri dan dua saudara tiri yang selalu cemburu padanya dan membuatnya selalu diperlakukan tidak layak. Cinderella tidak memiliki kesempatan untuk menghadiri pesta kerajaan. Namun, ketika ibu peri muncul dan secara ajaib mengubah penampilannya dan Cinderella jatuh cinta pada pangeran tampan di pesta dansa. Namun, ia harus menghadapi kemarahan ibu tiri dan saudara perempuannya ketika mantranya hilang di tengah malam.</item>
+        <item>Ketika kerajaan mereka terjebak dalam musim dingin abadi, Anna (Kristen Bell) yang tak kenal takut bergabung dengan pendaki gunung Kristoff (Jonathan Groff) dan sahabat karib rusa untuk menemukan saudara perempuan Anna, Ratu Salju Elsa (Idina Menzel), dan mematahkan mantra esnya. Dalam perjalanan epik tersebut, mereka bertemu dengan troll mistis, manusia salju komedi (Josh Gad), kondisi yang keras, dan sihir di setiap kesempatan. Meski demikian, Anna dan Kristoff dengan berani maju untuk menyelamatkan kerajaan mereka dari cengkeraman dingin musim dingin.</item>
+        <item>Mr. Incredible harus merawat ketiga anaknya, sementara Elastigirl pergi menyelamatkan dunia karena Winston Deavor meminta bantuan Elastigirl untuk melawan kejahatan. Hal itu membuat Mr. Incredible khawatir karena harus menghadapi salah satu tantangan terbesarnya. Penjahat dunia bernama Screenslaver meluncurkan rencananya dengan licik. Ia membajak layar untuk memproyeksikan gambar hipnotis dengan tujuan mencuci otak orang.</item>
+        <item>Flynn adalah seorang bandit yang menjadi buronan kerajaan karena mencuri mahkota. Ia kemudian bersembunyi di menara Rapunzel. Dia segera menjadi tawanan Rapunzel yang memiliki rambut emas ajaib setinggi 21 meter. Rapunzel telah dikurung selama bertahun-tahun dan sangat menginginkan kebebasan. Akhirnya ia membuat kesepakatan dengan Flynn, dan bersama-sama mereka memulai petualangan.</item>
+        <item>Sebelum diakuisisi Disney, Pixar berhasil memproduksi film kartun populer Toy Story. Film ini mengisahkan Woody sebuah mainan yang telah dicuri dari rumahnya. Ia dicuri oleh salah satu penjual mainan Al McWhiggin yang biasa menjual mainan pada kolektor. Buzz Lightyear dan kawan Woody mencoba menyelamatkannya. Di perjalanan, Woody baru menyadari bahwa ia adalah sebuah koleksi mainan berharga dari acara televisi Woody Roundup. Ia dipertemukan dengan teman-temannya di acara tersebut bernama Jessie si cowgirl yodeling dan Stinky Pete the Prospector</item>
+        <item>Mei Lee, anak berusia tiga belas tahun yang selalu menurut kepada ibundanya secara tak sengaja berselisih dengan sang ibunda. Ia memendam amarah karena tidak merasakan kebebasan sebagai seorang remaja. Mei Lee menjadi sosok yang selalu bersembunyi melakukan sesuatu karena takut ketahuan sang ibunda. Ia kemudian menjadi sosok besar berwarna merah karena keturunan dari keluarganya.</item>
+        <item>Wish merupakan film animasi musikal tahun 2023. Asha yang berusia 17 tahun dan kambingnya Valentino menavigasi Rosas, kerajaan keinginan, tempat keinginan benar-benar bisa menjadi kenyataan. Film ini disutradarai oleh Chris Buck dan Fawn Veerasunthom dari Walt Disney Animation Studios. Sementara naskah film ditulis oleh Chris Buck dan Jennifer Lee.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/beautyandthebeast</item>
+        <item>@drawable/brave</item>
+        <item>@drawable/chipndale</item>
+        <item>@drawable/cinderella</item>
+        <item>@drawable/frozen</item>
+        <item>@drawable/incredibles2</item>
+        <item>@drawable/tangled</item>
+        <item>@drawable/toystory</item>
+        <item>@drawable/turningred</item>
+        <item>@drawable/wish</item>
+
+    </integer-array>
+</resources>
